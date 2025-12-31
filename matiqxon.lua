@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://keysystem.work.ink/scripts/019b6c73-32bd-74fb-9134-b9570c42908c"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/matikonik333/matiqxon-hub/main/matiqxon.lua"))()
 --paste in an executor
